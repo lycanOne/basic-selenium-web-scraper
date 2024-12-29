@@ -1,0 +1,11 @@
+** DISCLAIMER: This code is purely for educational purposes and is intended for ehtical use. Please, do your research to ensure the website you are scaping allows scraping. **
+
+// How to use selenium-web-scraper //
+
+/ Steps
+    1. Enter webpage URL you'd like to scrape into url = ''
+    2. Inspect the page to find the tag (i.e 'h2')
+    3. Run the program
+
+- Upon running the program, a .csv file will be created with a list of Titles and Hyperlinks attributed to the tag.
+- No other dependencies necessary, just Selenium. Simple!
